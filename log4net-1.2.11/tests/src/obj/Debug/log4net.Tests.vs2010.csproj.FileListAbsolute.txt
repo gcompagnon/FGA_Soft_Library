@@ -1,0 +1,1 @@
+C:\DATA\GIT\FGA_Soft_Library\log4net-1.2.11\tests\src\obj\Debug\log4net.Tests.vs2010.csprojResolveAssemblyReference.cache

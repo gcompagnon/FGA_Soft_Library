@@ -1,0 +1,12 @@
+C:\DATA\GIT\FGA_Soft_Library\ReactiveETL\ReactiveETL\obj\Debug\ReactiveETL.csprojResolveAssemblyReference.cache
+C:\DATA\GIT\FGA_Soft_Library\ReactiveETL\ReactiveETL\bin\Debug\ReactiveETL.XML
+C:\DATA\GIT\FGA_Soft_Library\ReactiveETL\ReactiveETL\bin\Debug\ReactiveETL.dll
+C:\DATA\GIT\FGA_Soft_Library\ReactiveETL\ReactiveETL\bin\Debug\ReactiveETL.pdb
+C:\DATA\GIT\FGA_Soft_Library\ReactiveETL\ReactiveETL\bin\Debug\AutoMapper.dll
+C:\DATA\GIT\FGA_Soft_Library\ReactiveETL\ReactiveETL\bin\Debug\FileHelpers.dll
+C:\DATA\GIT\FGA_Soft_Library\ReactiveETL\ReactiveETL\bin\Debug\AutoMapper.pdb
+C:\DATA\GIT\FGA_Soft_Library\ReactiveETL\ReactiveETL\bin\Debug\AutoMapper.xml
+C:\DATA\GIT\FGA_Soft_Library\ReactiveETL\ReactiveETL\bin\Debug\FileHelpers.pdb
+C:\DATA\GIT\FGA_Soft_Library\ReactiveETL\ReactiveETL\bin\Debug\FileHelpers.xml
+C:\DATA\GIT\FGA_Soft_Library\ReactiveETL\ReactiveETL\obj\Debug\ReactiveETL.dll
+C:\DATA\GIT\FGA_Soft_Library\ReactiveETL\ReactiveETL\obj\Debug\ReactiveETL.pdb

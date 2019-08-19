@@ -1,0 +1,5 @@
+C:\DATA\GIT\FGA_Soft_Library\AutoMapper\bin\Debug\AutoMapper.xml
+C:\DATA\GIT\FGA_Soft_Library\AutoMapper\bin\Debug\AutoMapper.dll
+C:\DATA\GIT\FGA_Soft_Library\AutoMapper\bin\Debug\AutoMapper.pdb
+C:\DATA\GIT\FGA_Soft_Library\AutoMapper\obj\Debug\AutoMapper.dll
+C:\DATA\GIT\FGA_Soft_Library\AutoMapper\obj\Debug\AutoMapper.pdb

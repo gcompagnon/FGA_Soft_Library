@@ -1,0 +1,6 @@
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\Debug\Net 2.0\FileHelpers.ExcelStorage.dll
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\Debug\Net 2.0\FileHelpers.ExcelStorage.pdb
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\Debug\Net 2.0\FileHelpers.ExcelStorage.xml
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.ExcelStorage\obj\Debug\FileHelpers.ExcelStorage.csprojResolveAssemblyReference.cache
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.ExcelStorage\obj\Debug\FileHelpers.ExcelStorage.dll
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.ExcelStorage\obj\Debug\FileHelpers.ExcelStorage.pdb

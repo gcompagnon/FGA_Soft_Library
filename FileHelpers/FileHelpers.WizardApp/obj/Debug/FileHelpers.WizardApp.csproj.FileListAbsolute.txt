@@ -1,0 +1,32 @@
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\Debug\Wizard\Templates\VB - Generics - Write Whole File.tpl
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\Debug\Wizard\Templates\VB - Generics - Read Whole File.tpl
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\Debug\Wizard\Templates\CS - Generics - Read And Check Errors.tpl
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\Debug\Wizard\Templates\VB - Generics - Read Record by Record.tpl
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\Debug\Wizard\Templates\CS - Read And Check Errors.tpl
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\Debug\Wizard\Templates\VB - Write Whole File.tpl
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\Debug\Wizard\Templates\CS - Generics - Write Whole File.tpl
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\Debug\Wizard\Templates\CS - Read Record by Record.tpl
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\Debug\Wizard\Templates\CS - Generics - Read Whole File.tpl
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\Debug\Wizard\Templates\CS - Write Whole File.tpl
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\Debug\Wizard\Templates\VB - Read Record by Record.tpl
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\Debug\Wizard\Templates\VB - Read Whole File.tpl
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\Debug\Wizard\Templates\CS - Generics - Read Record by Record.tpl
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\Debug\Wizard\Templates\CS - Read Whole File.tpl
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\Debug\Wizard\Templates\VB - Generics - Read and Check Errors.tpl
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\Debug\Wizard\Templates\VB - Read and Check Errors.tpl
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\Debug\Wizard\FileHelpersWizard.exe
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\Debug\Wizard\FileHelpersWizard.pdb
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.WizardApp\obj\Debug\FileHelpers.WizardApp.csprojResolveAssemblyReference.cache
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.WizardApp\obj\Debug\FileHelpers.WizardApp.FieldDelimitedControl.resources
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.WizardApp\obj\Debug\FileHelpers.WizardApp.FieldBaseControl.resources
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.WizardApp\obj\Debug\FileHelpers.WizardApp.FieldFixedControl.resources
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.WizardApp\obj\Debug\FileHelpers.WizardApp.frmDataFile.resources
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.WizardApp\obj\Debug\FileHelpers.WizardApp.frmDataPreview.resources
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.WizardApp\obj\Debug\FileHelpers.WizardApp.frmDonate.resources
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.WizardApp\obj\Debug\FileHelpers.WizardApp.frmFather.resources
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.WizardApp\obj\Debug\FileHelpers.WizardApp.frmLastVersion.resources
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.WizardApp\obj\Debug\FileHelpers.WizardApp.frmWizard.resources
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.WizardApp\obj\Debug\FileHelpers.WizardApp.Properties.Resources.resources
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.WizardApp\obj\Debug\FileHelpers.WizardApp.csproj.GenerateResource.Cache
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.WizardApp\obj\Debug\FileHelpersWizard.exe
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.WizardApp\obj\Debug\FileHelpersWizard.pdb

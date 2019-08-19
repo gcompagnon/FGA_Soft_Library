@@ -1,0 +1,5 @@
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\Debug\Net 2.0\FileHelpers.dll
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\Debug\Net 2.0\FileHelpers.pdb
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\Debug\Net 2.0\FileHelpers.xml
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers\obj\Debug\FileHelpers.dll
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers\obj\Debug\FileHelpers.pdb

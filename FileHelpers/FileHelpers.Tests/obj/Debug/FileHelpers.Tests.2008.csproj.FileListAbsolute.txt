@@ -1,0 +1,15 @@
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.Tests\Release\FileHelpers.Tests.dll
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.Tests\Release\FileHelpers.Tests.pdb
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.Tests\Release\FileHelpers.dll
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.Tests\Release\FileHelpers.ExcelStorage.dll
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.Tests\Release\nunit.framework.dll
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.Tests\Release\Interop.Excel.dll
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.Tests\Release\Interop.Office.dll
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.Tests\Release\FileHelpers.ExcelStorage.pdb
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.Tests\Release\FileHelpers.ExcelStorage.xml
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.Tests\Release\FileHelpers.pdb
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.Tests\Release\FileHelpers.xml
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.Tests\Release\nunit.framework.xml
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.Tests\obj\Debug\FileHelpers.Tests.2008.csprojResolveAssemblyReference.cache
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.Tests\obj\Debug\FileHelpers.Tests.dll
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.Tests\obj\Debug\FileHelpers.Tests.pdb

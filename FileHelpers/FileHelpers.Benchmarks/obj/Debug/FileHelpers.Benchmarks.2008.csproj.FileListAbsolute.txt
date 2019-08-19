@@ -1,0 +1,5 @@
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\Debug\Benchmarks\Net 2.0\FileHelpers.Benchmarks.exe
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\Debug\Benchmarks\Net 2.0\FileHelpers.Benchmarks.pdb
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.Benchmarks\obj\Debug\FileHelpers.Benchmarks.2008.csprojResolveAssemblyReference.cache
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.Benchmarks\obj\Debug\FileHelpers.Benchmarks.exe
+C:\DATA\GIT\FGA_Soft_Library\FileHelpers\FileHelpers.Benchmarks\obj\Debug\FileHelpers.Benchmarks.pdb
